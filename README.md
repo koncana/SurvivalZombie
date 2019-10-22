@@ -2,6 +2,12 @@
 
   This is a game in which you have to survive by killing the zombie. The speed of the zombie will increase with each shot he receives.
   
+### Getting Started  
+
+ * Have to change the username and password on the file Connect.java. 
+ 
+ * Have to create the database (SurvivalZombie.sql).
+  
 ### Controls
 
  W -> Up
@@ -30,7 +36,7 @@
 
 ### Authors
 
-* kenshiroSenpai: https://github.com/kenshiroSenpai
+* [kenshiroSenpai](https://github.com/kenshiroSenpai)
 
-* koncana: https://github.com/koncana
+* [koncana](https://github.com/koncana)
   
