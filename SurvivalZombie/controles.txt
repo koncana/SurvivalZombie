@@ -1,0 +1,5 @@
+
+W: movimiento hacia arriba
+A: movimiento hacia la izquierda
+S: movimiento hacia abajo
+D: movimiento hacia la derecha
