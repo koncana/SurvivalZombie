@@ -24,7 +24,7 @@
 
 ### Authors
 
-kenshiroSenpai: https://github.com/kenshiroSenpai
+* kenshiroSenpai: https://github.com/kenshiroSenpai
 
-koncana: https://github.com/koncana
+* koncana: https://github.com/koncana
   
