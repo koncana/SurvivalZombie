@@ -12,6 +12,12 @@
  
  D -> Right
  
+ Space -> Shoot
+ 
+ P -> Pause
+ 
+ Esc -> Menu
+ 
 ### Prerequisites
 
 * NetBeans IDE.
